@@ -1,2 +1,4 @@
-Se empezó a hacer la tarea mediante visual estudio code habiendo olvidado hacerla en un notebook para representar los cambios temporales. esto se transcribió y modificó para arreglar fallos que se detectaron a medida que pasaba el tiempo.
+Se empezó a hacer la tarea mediante visual estudio code habiendo olvidado hacerla en un notebook para representar los cambios temporales.
+esto se transcribió y modificó para arreglar fallos que se detectaron a medida que pasaba el tiempo.
+
 Sin más que agregar, se agradece su tiempo y paciencia.
